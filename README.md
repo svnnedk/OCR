@@ -6,4 +6,8 @@ The scripts are made with easyOCR
 
 This is how the result looks like if you use the 2.png file in the image folder:
 
-![alt text](https://github.com/svnnedk/OCR/blob/main/images/2.png)
+| The image before OCR  | Second Header |
+| ------------- | ------------- |
+| ![alt text](https://github.com/svnnedk/OCR/blob/main/images/2.png)  | Content Cell  |
+| Content Cell  | Content Cell  |
+
